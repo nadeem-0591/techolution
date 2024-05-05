@@ -23,8 +23,4 @@ This Python script is designed to scrape installation instructions from the Pyth
 - `requirements.txt`: File containing the list of required Python packages.
 - `scraped_data_all_urls.csv`: Output CSV file containing scraped data.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Author
-[Your Name] - [Your Contact Information]
